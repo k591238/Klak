@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mimosa\\Desktop\\Git_Clones\\Klak_osc\\Klak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{359200A9-FC11-7330-269A-F91A8968E16A}|Klak.Test.csproj|c:\\users\\mimosa\\desktop\\git_clones\\klak_osc\\klak\\assets\\samples\\klak.test.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{359200A9-FC11-7330-269A-F91A8968E16A}|Klak.Test.csproj|solutionrelative:assets\\samples\\klak.test.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Klak.Test.asmdef",
+              "DocumentMoniker": "C:\\Users\\Mimosa\\Desktop\\Git_Clones\\Klak_osc\\Klak\\Assets\\Samples\\Klak.Test.asmdef",
+              "RelativeDocumentMoniker": "Assets\\Samples\\Klak.Test.asmdef",
+              "ToolTip": "C:\\Users\\Mimosa\\Desktop\\Git_Clones\\Klak_osc\\Klak\\Assets\\Samples\\Klak.Test.asmdef",
+              "RelativeToolTip": "Assets\\Samples\\Klak.Test.asmdef",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2025-01-29T10:27:40.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
